@@ -6,6 +6,6 @@
 
 python3 fofa-scan.py 搜索内容 xls文件名 cookie(_fofapro_ars_session值）
 
-PS：
+PS：\n
 python3 fofa-scan.py domain="baidu.com" baidu 2ae1baadcdb98ece012d82bf9c845732
 
