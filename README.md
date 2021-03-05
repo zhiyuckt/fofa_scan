@@ -1,3 +1,5 @@
+#由于fofa修复了cookie的那个漏洞,所以现在该脚本利用不了
+
 # fofa_scan
 参考师傅的：https://github.com/jayus0821/fofa-j
 
